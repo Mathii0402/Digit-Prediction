@@ -1,3 +1,6 @@
 # Digit-Prediction
-Digit Prediction using Sequential model.
-This an app to predict the digit which we have given as input in paint and predict the output. 
+    Digit Prediction using Sequential model.This an app to predict the digit which we have given as input in paint and predict the output. 
+    
+## Main Features
+    - Predict the digit
+    - Display the predicted digit
